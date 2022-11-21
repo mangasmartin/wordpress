@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+}
+
+/* comentari */
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    overflow-x: hidden; /* comentari */
+}
+
+.seccio {
+    background-color: #ee5253;
+    color: #fff;
+}
+
+.seccio h2 {
+    font-size: 2rem;
+}
